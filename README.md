@@ -25,6 +25,5 @@
 ![imagen](img/20.png)
 ![imagen](img/21.png)
 ![imagen](img/22.png)
-![imagen](img/22a.png)
 ![imagen](img/23.png)
 ![imagen](img/24.png)
