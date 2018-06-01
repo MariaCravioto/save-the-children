@@ -13,7 +13,6 @@
 ![imagen](img/7.png)
 ![imagen](img/8.png)
 ![imagen](img/9.png)
-![imagen](img/9a.png)
 ![imagen](img/10.png)
 ![imagen](img/11.png)
 ![imagen](img/12.png)
